@@ -18,7 +18,7 @@ function almacenamientoLocal()
 
 function borrarLocal()
 {
-    alert('Borrando el almacenamiento local')
+    alert('Borrando el almacenamiento local');
     localStorage.clear();
 }
 
